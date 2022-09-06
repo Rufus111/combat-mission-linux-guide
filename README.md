@@ -79,6 +79,10 @@ and wait for some time. If something going wrong - "make" program inform you int
 ### Launch game
 After succesful installation you must restart Steam.
 If all is ok, after Steam launch go to your Library -> press right mouse button on game -> Properties -> Compatibility -> press on "Froce the use of a specific..." -> and choose "combatmission" from list.
+
+![изображение](https://user-images.githubusercontent.com/12882501/188676445-37a12c49-ea4d-4006-a5d3-6f9514d9c866.png)
+
+
 Press Ok, and try to run this game.
 
 Thats all!
